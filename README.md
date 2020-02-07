@@ -133,25 +133,26 @@ Once SAS has authorized services, students must show the originally signed SAS S
 Some students may wish to take part in religious observances that occur during this academic term. If you have a religious observance that conflicts with your participation in the course, please meet with me before the end of the second week of the term to discuss appropriate accommodations.
 
 ## Course Schedule and Topics
-
+| Week | Class | Topic |
+|---|---|---|
 | Week 1 | 1/7/20 | Introduction and a series of problematic words |
 |   | 1/9/20 | No class - move to x hour on 1/13 |
 | Week 2 | 1/13/20 | Digital art showcase |
 |   | 1/14/20 | Art and idea |
 |   | 1/16/20 | Performance and artifact |
-| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
+||| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
 | Week 3 | 1/21/20 | Transmedia - Guest Speaker Jennie Chamberlain |
 |   | 1/23/20 | Variable Media - Guest Speaker Jon Ippolito |
-| Readings: Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Ippolito, Death by Wall Label; Ippolito, Why Art Should Be Free |
+||| Readings: Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Ippolito, Death by Wall Label; Ippolito, Why Art Should Be Free |
 | Week 4 | 1/28/20 | Ethics and fictions |
 |   | 1/30/20 | Participatory culture |
-| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction; Bell, Ippolito, Diffused Museums; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Marino, Wittig, Netprov-Elements of an Emerging Art Form |
+||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction; Bell, Ippolito, Diffused Museums; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Marino, Wittig, Netprov-Elements of an Emerging Art Form |
 | Week 5 | 2/4/20 | Deep Dive presentations |
 |   | 2/6/20 | Prehistories and leftovers - Hood Museum visit to see Fluxus pieces |
-| Readings: Friedman, Intermedia, Multimedia, and Media |
+||| Readings: Friedman, Intermedia, Multimedia, and Media |
 | Week 6 | 2/11/20 | BASIC - Rauner archive visit on the history of BASIC |
 |   | 2/13/20 | BASIC Workshop |
-| Readings: McCracken, Fifty Years of BASIC |
+||| Readings: McCracken, Fifty Years of BASIC |
 | Week 7 | 2/18/20 | Demoscene, live coding, and generative art |
 |   | 2/20/20 | BASIC presentations |
 | Week 8 | 2/25/20 | Speculative pasts |
