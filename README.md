@@ -128,9 +128,27 @@ Students with disabilities who may need disability-related academic adjustments 
 
 Once SAS has authorized services, students must show the originally signed SAS Services and Consent Form and/or a letter on SAS letterhead to me. As a first step, if you have questions about whether you qualify to receive academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
 
+### Statement on Mental Health
+
+The academic environment at Dartmouth is challenging, our terms are intensive, and classes are not the only demanding part of your life. There are a number of resources available to you on campus to support your wellness, including your:
+
+Undergraduate Dean (http://www.dartmouth.edu/~upperde/)
+
+Counseling and Human Development (http://www.dartmouth.edu/~chd/)
+
+Student Wellness Center (http://www.dartmouth.edu/~healthed/)
+
 ### Religious Observances
 
 Some students may wish to take part in religious observances that occur during this academic term. If you have a religious observance that conflicts with your participation in the course, please meet with me before the end of the second week of the term to discuss appropriate accommodations.
+
+### Honor Code Addendum
+
+The Academic Honor Principle depends on the willingness of students to maintain and perpetuate standards of academic honesty. Students may not ask anyone other than the professor of their course to correct written work for this course.  Students must rely on their judgment and conscience to determine whether a specific question might be addressed to a classmate or a friend (e.g. help with an idiom not readily available in a dictionary, or the conjugation of a rare irregular verb), but in any case, such aid must be minimal, occasional, and acknowledged.  Outside proofreading/correcting changes the student's work, gives the professor an inaccurate idea of the student's skills, and as such violates the Dartmouth College honor principle.  As a Dartmouth Student you are required to comply with the Academic Honor Principle: https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle
+
+### Dartmouth's Anti-Hazing Policy
+
+The Film and Media Studies  Department is a firm supporter of Dartmouth's Anti-Hazing Policy. We reject hazing in all of its manifestations. In order to promote a safe environment for all students and not interrupt the learning experience at Dartmouth College, evidence of hazing-related practices, as defined by the Dartmouth College Anti-Hazing Policy, will not be considered appropriate in the classroom
 
 ## Course Schedule and Topics
 | Week | Class | Topic |
