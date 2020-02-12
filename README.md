@@ -160,7 +160,7 @@ The Film and Media Studies  Department is a firm supporter of Dartmouth's Anti-H
 |   | 1/16/20 | Performance and artifact |
 ||| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
 | Week 3 | 1/21/20 | Transmedia - [Guest Speaker Jennie Chamberlain](https://docs.google.com/presentation/d/1TWOO1fWthT2p6nu_6Glidkaaq6umHhjySPI3yHwsczM/edit?usp=sharing) |
-|   | 1/23/20 | Variable Media - Guest Speaker Jon Ippolito |
+|   | 1/23/20 | Variable Media - [Guest Speaker Jon Ippolito](http://jonippolito.net/writing/deck/re-collection_presentations/patterns_of_behavior.html) |
 ||| Readings: Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Ippolito, Death by Wall Label; Ippolito, Why Art Should Be Free |
 | Week 4 | 1/28/20 | Ethics and fictions |
 |   | 1/30/20 | Participatory culture |
