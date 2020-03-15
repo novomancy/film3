@@ -173,8 +173,10 @@ The Film and Media Studies  Department is a firm supporter of Dartmouth's Anti-H
 ||| Readings: McCracken, Fifty Years of BASIC |
 | Week 7 | 2/18/20 | Demoscene, live coding, and generative art |
 |   | 2/20/20 | BASIC presentations |
+||| Readings: None |
 | Week 8 | 2/25/20 | Speculative pasts |
-|   | 2/27/20 | Speculative futures |
+|   | 2/27/20 | Speculative futures - Guest Speaker Michelle Brown |
+||| Readings: Sutherland, The Ultimate Display; Bush, As We May Think; LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Asimov, The Feeling of Power; Dillon, Indigenous Futurisms (excerpt); Roanhorse, Welcome to Your Authentic Indian Experience; Kress, Beggars in Spain |
 | Week 9 | 3/3/20 | Final presentations - A |
 |   | 3/5/20 | Final presentations - B |
 
