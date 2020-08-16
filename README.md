@@ -50,6 +50,40 @@ There are three collaborative resources we will be building throughout the term:
 
 You should add to the jargon file whenever you come across an unfamiliar term that you think needs definition. You will be expected to add at least five entries to the lists of artworks and artists over the course of the term.
 
+**Online Class Meetings**
+
+As part of the effort to keep everyone healthy during the pandemic, we have moved this course online. Putting the course fully online adds some extra legal and social constraints:
+
+***COVID-Related Meeting Notice***
+
+(1) Consent to recording of course and group office hours 
+a) I affirm my understanding that this course and any associated group meetings involving students and the instructor, including but not limited to scheduled and ad hoc office hours and other consultations, may be recorded within any digital platform used to offer remote instruction for this course; 
+b) I further affirm that the instructor owns the copyright to their instructional materials, of which these recordings constitute a part, and distribution of any of these recordings in whole or in part without prior written consent of the instructor may be subject to discipline by Dartmouth up to and including expulsion;
+b) I authorize Dartmouth and anyone acting on behalf of Dartmouth to record my participation and appearance in any medium, and to use my name, likeness, and voice in connection with such recording; and 
+c) I authorize Dartmouth and anyone acting on behalf of Dartmouth to use, reproduce, or distribute such recording without restrictions or limitation for any educational purpose deemed appropriate by Dartmouth and anyone acting on behalf of Dartmouth.
+ (2) Requirement of consent to one-on-one recordings 
+By enrolling in this course, I hereby affirm that I will not under any circumstance make a recording in any medium of any one-on-one meeting with the instructor without obtaining the prior written consent of all those participating, and I understand that if I violate this prohibition, I will be subject to discipline by Dartmouth up to and including expulsion, as well as any other civil or criminal penalties under applicable law.
+ 
+***Zoom Etiquette***
+ 
+Video should be on.
+While it might be tempting to lurk in class, it's helpful for your professor and fellow students to see your reactions. Be present, keep video on unless an emergency comes up. It's part of active participation.
+ 
+Clothing is NOT optional.
+Remember that, even though you may be alone at home, your professor and classmates can SEE you! As a general rule, wear the kinds of clothes you would normally wear to school. While attending class in your pajama bottoms is a tempting option, you'll want to make sure that you are presenting yourself in the best possible light. The idea is not to distract from the meeting. It is always best to be prepared for a professional interaction, especially in your appearance if video will be used.
+ 
+Be aware of your surroundings.
+Your professor and classmates can also see BEHIND you. Make sure that there is nothing in the background (traffic, other people, a pile of laundry) that may distract from the class. While it is not necessarily the best choice to attend class from your messy bedroom, it may be the only place you can find peace and quiet away from roommates or family members.
+ 
+We can see you being distracted. 
+Give each other the gift of your full attention. Don’t stare at your phone, your tablet, the newspaper, or something else while other people are presenting. Don't cook, drive somewhere, carry on conversations with housemates/family, or visit the restroom while live in class. Remember that people can see you. Zoom meetings are not the time to put on your face, walk the dog, or slurp spaghetti noodles. As much as possible, all students should be in a quiet area free from unnecessary distractions. Don’t work on other tasks (like checking email) during the virtual meeting. Turn off all notifications and make sure your cell phone is on silent. Distractions lower your class experience and the experience of others.
+ 
+Mute is your friend.
+Once you log in to the virtual classroom, be sure to mute your microphone (lower left-hand corner). This will help to eliminate background noise that could distract others. Mute your audio if you are not speaking.
+ 
+Raise your hand and wait to be called upon.
+It depends on the size of the group, but to maintain smoother transitions in a discussion, if you wish to speak, either physically raise your hand or use the "Raise Hand" button at the center of the bottom of your screen. Once the teacher calls on you, unmute yourself and begin speaking. When you have finished speaking, indicate you are done by saying something like "That's all" or "Thank you" and then mute your microphone again. Don’t interrupt other people when they’re speaking (or attempt to speak over them). You might also try asking questions in the Zoom chat feature, a tool to make comments and ask questions without interrupting the speaker.
+
 **Reading**
 
 You will be given weekly reading assignments that you will respond to and will form the core of our discussions. In addition to these readings, you are expected to keep up with the following blogs during the term:
@@ -141,6 +175,25 @@ Student Wellness Center (http://www.dartmouth.edu/~healthed/)
 ### Religious Observances
 
 Some students may wish to take part in religious observances that occur during this academic term. If you have a religious observance that conflicts with your participation in the course, please meet with me before the end of the second week of the term to discuss appropriate accommodations.
+
+### Class Climate & Inclusivity
+Our group will demonstrate a commitment to:
+- Respect
+- Civility
+- Conduct
+- Language
+- Personal Responsibility
+- Acknowledging bias (e.g. in personal viewpoints, of researchers, in course materials)
+- Giving and receiving feedback
+
+### Offensive Materials
+Due to the nature of contemporary media and subject matter, this course may include difficult materials and challenging content that may prove to be offensive due to their language, visual features, theme, or overall orientation. Difficult content can be difficult to one individual and not difficult for another; this is the nature of interpretation. Such content may appear in readings, lectures, in-class discussions, screenings, software and game examples, student projects, and/or other materials. These forms of cultural expression are used as objects of description and analysis, not as promoting any view on sensitive issues. They are meant to be examined in the context of intellectual inquiry of the sort encountered at the university level. The ideas or perspectives contained or implied in such materials do not necessarily reflect the views of the professor, the Department of Film and Media Studies, or Dartmouth College. Students are invited to express their reactions to such material in class, sections, or during office hours, but they must do so in ways that demonstrate respect for other class participants and the faculty member in the spirit of intellectual and creative exploration. Students who enroll in the course will be deemed to have consented to these conditions (willingness to confront difficult or offensive material in readings, lectures, discussions, films, recordings, and other materials and to respect the rights of others).
+
+### Academic Conduct
+Plagiarism – presenting someone else’s ideas as your own, either verbatim or recast in your own words – is a serious academic offense with serious consequences. Additionally, activities that give the professor an inaccurate idea of the student's skills violates the Dartmouth College honor principle.  As a Dartmouth Student you are required to comply with the Academic Honor Principle: https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle
+ 
+See additional information on College policies on misconduct,         
+https://student-affairs.dartmouth.edu/policy/academic-honor-principle
 
 ### Honor Code Addendum
 
