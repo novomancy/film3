@@ -6,7 +6,7 @@ Based on Mary Flanagan's Film 3 syllabus
 
 ## Course Description
 
-Digital technology is a key component of culture. Looking at popular media, science fiction, computer games, and artists&#39; projects, students will learn important approaches to digital culture including: the history of the computer as a medium; the conceptual history of interactivity; the development of film, design, animation, and hypermedia; the history of artificial reality; and how visions of the future may change our sense of identity and what constitutes our physical bodies.
+Digital technology is a key component of culture. Looking at popular media, science fiction, computer games, and artists&#39; projects, students will learn important approaches to digital culture including: the history of the computer as a medium; the conceptual history of interactivity; the development of film, design, extended reality, and hypermedia; the history of artificial realities; and how visions of the future may change our sense of identity and what constitutes our physical bodies.
 
 This course will explore what it means for something to be digital beyond the reductive definition that it comes from a computer. The spine of the course will test the early promise of the Internet era–that &quot;information wants to be free&quot;–and examine how that idea has been reflected in the art and culture we have produced, where the notion has succeeded and failed, and how the tension between open and closed communities has become a key framework for participating in the digital world.
 
@@ -34,7 +34,7 @@ The goal of the course is to collectively develop these and other methods that e
 
 ## Expectations &amp; Norms
 
-**Meatspace Participation**
+**~~Meatspace~~Zoom Participation**
 
 This course develops a shared understanding of digital culture that will evolve as your ideas bounce off of and are transformed by others in the class. If the only time you talk is when you&#39;re giving a presentation then you will have little opportunity to contribute to the shared understanding developed by the class and I will not have much information to use when evaluating your success in the class (i.e., grade). Ask questions, throw in comments, and generally add to the discussion as much as possible, particularly if you think you missed something or you have a stupid question. The odds are good that I failed to completely explain whatever you missed and other people are as confused as you are.
 
@@ -42,11 +42,13 @@ You will be expected to meet with collaborators outside of class. I strongly enc
 
 **Online Participation**
 
-There are three collaborative resources we will be building throughout the term:
+At the beginning of the class we will choose an asynchronous platform to supplement live Zoom calls–either Slack or Discord, whichever we decide we collectively feel most comfortable using.
 
-- A shared jargon file where we will define terms and concepts that are unfamiliar
-- A list of links to interesting digital artwork (or documentation if it is offline)
-- A list of digital- and digital adjacent-artists, each of which is described by a brief paragraph justifying their inclusion on the list
+Either way, that platform will have dedicated channels to sharing interesting and relevant resources:
+
+- A jargon file where we will define terms and concepts that are unfamiliar
+- Links to digital artwork that you find compelling in some way (or documentation if it is offline)
+- Links to digital- and digital adjacent-artists, each of which is described by a brief paragraph justifying their inclusion on the list
 
 You should add to the jargon file whenever you come across an unfamiliar term that you think needs definition. You will be expected to add at least five entries to the lists of artworks and artists over the course of the term.
 
@@ -56,33 +58,38 @@ As part of the effort to keep everyone healthy during the pandemic, we have move
 
 ***COVID-Related Meeting Notice***
 
-(1) Consent to recording of course and group office hours 
-a) I affirm my understanding that this course and any associated group meetings involving students and the instructor, including but not limited to scheduled and ad hoc office hours and other consultations, may be recorded within any digital platform used to offer remote instruction for this course; 
-b) I further affirm that the instructor owns the copyright to their instructional materials, of which these recordings constitute a part, and distribution of any of these recordings in whole or in part without prior written consent of the instructor may be subject to discipline by Dartmouth up to and including expulsion;
-b) I authorize Dartmouth and anyone acting on behalf of Dartmouth to record my participation and appearance in any medium, and to use my name, likeness, and voice in connection with such recording; and 
-c) I authorize Dartmouth and anyone acting on behalf of Dartmouth to use, reproduce, or distribute such recording without restrictions or limitation for any educational purpose deemed appropriate by Dartmouth and anyone acting on behalf of Dartmouth.
- (2) Requirement of consent to one-on-one recordings 
+(1) Consent to recording of course and group office hours
+
+-  I affirm my understanding that this course and any associated group meetings involving students and the instructor, including but not limited to scheduled and ad hoc office hours and other consultations, may be recorded within any digital platform used to offer remote instruction for this course; 
+
+-  I further affirm that the instructor owns the copyright to their instructional materials, of which these recordings constitute a part, and distribution of any of these recordings in whole or in part without prior written consent of the instructor may be subject to discipline by Dartmouth up to and including expulsion;
+
+-  I authorize Dartmouth and anyone acting on behalf of Dartmouth to record my participation and appearance in any medium, and to use my name, likeness, and voice in connection with such recording; and 
+
+-  I authorize Dartmouth and anyone acting on behalf of Dartmouth to use, reproduce, or distribute such recording without restrictions or limitation for any educational purpose deemed appropriate by Dartmouth and anyone acting on behalf of Dartmouth.
+
+(2) Requirement of consent to one-on-one recordings 
+
 By enrolling in this course, I hereby affirm that I will not under any circumstance make a recording in any medium of any one-on-one meeting with the instructor without obtaining the prior written consent of all those participating, and I understand that if I violate this prohibition, I will be subject to discipline by Dartmouth up to and including expulsion, as well as any other civil or criminal penalties under applicable law.
- 
+
+We will discuss the implications of these rights and rules in the class as well–they are an object lesson on digital culture in their own right!
+
 ***Zoom Etiquette***
  
-Video should be on.
+- Video should be on when technology allows
 While it might be tempting to lurk in class, it's helpful for your professor and fellow students to see your reactions. Be present, keep video on unless an emergency comes up. It's part of active participation.
  
-Clothing is NOT optional.
+- Clothing is NOT optional
 Remember that, even though you may be alone at home, your professor and classmates can SEE you! As a general rule, wear the kinds of clothes you would normally wear to school. While attending class in your pajama bottoms is a tempting option, you'll want to make sure that you are presenting yourself in the best possible light. The idea is not to distract from the meeting. It is always best to be prepared for a professional interaction, especially in your appearance if video will be used.
  
-Be aware of your surroundings.
-Your professor and classmates can also see BEHIND you. Make sure that there is nothing in the background (traffic, other people, a pile of laundry) that may distract from the class. While it is not necessarily the best choice to attend class from your messy bedroom, it may be the only place you can find peace and quiet away from roommates or family members.
+- We can see you being distracted
+Give each other the gift of your full attention. Don’t stare at your phone, your tablet, or something else while other people are presenting. Don't cook, drive somewhere, carry on conversations with housemates/family, or visit the restroom while live in class. Remember that people can see you. 
  
-We can see you being distracted. 
-Give each other the gift of your full attention. Don’t stare at your phone, your tablet, the newspaper, or something else while other people are presenting. Don't cook, drive somewhere, carry on conversations with housemates/family, or visit the restroom while live in class. Remember that people can see you. Zoom meetings are not the time to put on your face, walk the dog, or slurp spaghetti noodles. As much as possible, all students should be in a quiet area free from unnecessary distractions. Don’t work on other tasks (like checking email) during the virtual meeting. Turn off all notifications and make sure your cell phone is on silent. Distractions lower your class experience and the experience of others.
- 
-Mute is your friend.
+- Mute is your friend
 Once you log in to the virtual classroom, be sure to mute your microphone (lower left-hand corner). This will help to eliminate background noise that could distract others. Mute your audio if you are not speaking.
  
-Raise your hand and wait to be called upon.
-It depends on the size of the group, but to maintain smoother transitions in a discussion, if you wish to speak, either physically raise your hand or use the "Raise Hand" button at the center of the bottom of your screen. Once the teacher calls on you, unmute yourself and begin speaking. When you have finished speaking, indicate you are done by saying something like "That's all" or "Thank you" and then mute your microphone again. Don’t interrupt other people when they’re speaking (or attempt to speak over them). You might also try asking questions in the Zoom chat feature, a tool to make comments and ask questions without interrupting the speaker.
+- Raise your hand and wait to be called upon.
+It depends on the size of the group, but to maintain smoother transitions in a discussion, if you wish to speak, either physically raise your hand or use the "Raise Hand" button at the center of the bottom of your screen. Once the teacher calls on you, unmute yourself and begin speaking. Don’t interrupt other people when they’re speaking (or attempt to speak over them). You might also try asking questions in the Zoom chat feature, a tool to make comments and ask questions without interrupting the speaker.
 
 **Reading**
 
@@ -93,11 +100,11 @@ You will be given weekly reading assignments that you will respond to and will f
 - Hyperallergic ( https://hyperallergic.com/ )
 - We-Make-Money-Not-Art (http://www.we-make-money-not-art.com/ )
 
-Note that &#39;keep up with&#39; does not mean you have to read every post on each site, simply that you check them regularly and pay attention to what you find interesting. Please share the good stuff in our Canvas discussion!
+Note that &#39;keep up with&#39; does not mean you have to read every post on each site, simply that you check them regularly and pay attention to what you find interesting. Please share the good stuff in our Slack/Discord discussion!
 
 **Writing Style**
 
-Everything you produce in this course will be created as though it is targeted at the general public, whether anyone outside the course ever sees it or not. That means it is more important that you write for style, rigor, and persuasion than that you get every character of a particular citation style correct. The applicable norms are those of public humanities; unfortunately, those norms are not as well defined as more traditional academic writing. My biggest tip is that you remember that all writing, even a class assignment, is storytelling. Create a clear narrative, use concrete examples, construct an argument, and own your perspective–if you do these things, then you will be on the right path. I encourage you to ask questions about how to improve your ability to work with this style of writing and media production throughout the term, but a few resources for learning more include:
+Everything you produce in this course will be created as though it is targeted at the general public, whether anyone outside the course ever sees it or not. That means it is more important that you write for style, rigor, and persuasion than that you get every character of a particular citation style correct. The applicable norms are those of public humanities; unfortunately, those norms are not as well defined as more traditional academic writing. My biggest tip is that you remember that all writing, even a class assignment, is storytelling. Create a clear narrative, use concrete examples, construct an argument, add own your perspective–if you do these things, then you will be on the right path. I encourage you to ask questions about how to improve your ability to work with this style of writing and media production throughout the term, but a few resources for learning more include:
 
 - [http://www.kellyjbaker.com/writing-for-a-public-audience/](http://www.kellyjbaker.com/writing-for-a-public-audience/)
 This blog post describes some of the common mistakes people make when moving from academic to public writing.
@@ -114,8 +121,7 @@ Collaboration within the course will vary depending on the requirements of the a
 
 **Notes on Logistics**
 
-- All assignments will be submitted via Canvas. If you hand me a piece of paper, you should expect me to lose it.
-- This class is scheduled in the evening and we are in New Hampshire. If weather creates a dangerous travel situation, I may move a class session to an x hour.
+- All assignments will be submitted via Canvas. Any ongoing resource sharing should take place in Slack/Discord. 
 - There are several guest speakers and visitors this term. While I have tried to get a commitment from each of them for specific dates and times, we may need to adjust the schedule slightly to accommodate if a guest is not available on their scheduled date.
 - I may occasionally ask to share a presentation or project outside the classroom (e.g. on Twitter). You are under absolutely no obligation to agree to this and, if you do not, I will not penalize you in any way.
 - I&#39;m happy to chat about any concerns with the course or the material we&#39;re discussing. To schedule an appointment for office hours, send email to john.p.bell@dartmouth.edu
@@ -126,15 +132,15 @@ As with all classes, it is expected that you will treat others with respect. Par
 
 ## Texts &amp; Materials
 
-Readings will be provided in Canvas. There is no required textbook for this course.
+Readings will be provided in Canvas. There is no required textbook for this course, but I will ask you to read two novels this term. More details on these will be forthcoming.
 
 ## Assessment &amp; Grading
 
 **Participation and Attendance: 20%**
 
-Participation includes taking an active role in both the online Canvas site and the classroom. Remember that the topics I introduce in class are only seeds and examples; I expect you to bring in your own related interests, respond to your classmates&#39; ideas, and take our discussions and hands-on projects in directions that I can&#39;t predict ahead of time.
+Participation includes taking an active role in both Zoom and Slack/Discord. Remember that the topics I introduce in class are only seeds and examples; I expect you to bring in your own related interests, respond to your classmates&#39; ideas, and take our discussions and hands-on projects in directions that I can&#39;t predict ahead of time.
 
-I will be taking attendance at each class meeting. If you are more than ten minutes late, that day will be marked as an absence. After two absences, your final grade will be lowered by a full letter grade for each additional absence. If you need to take a planned absence or will not be attending due to illness, let me know via email ahead of the class you will be missing.
+I will be taking attendance at each class meeting. If you are more than ten minutes late, that day will be marked as an absence. After two absences, your final grade will be lowered by a full letter grade for each additional absence. If you need to take a planned absence or will not be attending due to illness, let me know via email ahead of the class you will be missing. If your circumstances lead you to believe you will not be able to meet this attendance policy, let me know and we can discuss it.
 
 **Commentary on Readings and Media: 25%**
 
@@ -160,11 +166,11 @@ To submit your final project you will need to upload the final media file, scrip
 
 Students with disabilities who may need disability-related academic adjustments and services for this course are encouraged to see me privately as early in the term as possible. Students requiring disability-related academic adjustments and services must consult the Student Accessibility Services office in Carson Hall 125 or by phone: 646-9900 or email: [Student.Accessibility.Services@Dartmouth.edu](mailto:Student.Accessibility.Services@Dartmouth.edu).
 
-Once SAS has authorized services, students must show the originally signed SAS Services and Consent Form and/or a letter on SAS letterhead to me. As a first step, if you have questions about whether you qualify to receive academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
+Once SAS has authorized services, students must show the signed SAS Services and Consent Form and/or a letter on SAS letterhead to me. As a first step, if you have questions about whether you qualify to receive academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
 
 ### Statement on Mental Health
 
-The academic environment at Dartmouth is challenging, our terms are intensive, and classes are not the only demanding part of your life. There are a number of resources available to you on campus to support your wellness, including your:
+The academic environment at Dartmouth is challenging, our terms are intensive, and classes are not the only demanding part of your life–particularly in the middle of a pandemic. There are a number of resources available to you on campus to support your wellness, including your:
 
 Undergraduate Dean (http://www.dartmouth.edu/~upperde/)
 
@@ -197,41 +203,39 @@ https://student-affairs.dartmouth.edu/policy/academic-honor-principle
 
 ### Honor Code Addendum
 
-The Academic Honor Principle depends on the willingness of students to maintain and perpetuate standards of academic honesty. Students may not ask anyone other than the professor of their course to correct written work for this course.  Students must rely on their judgment and conscience to determine whether a specific question might be addressed to a classmate or a friend (e.g. help with an idiom not readily available in a dictionary, or the conjugation of a rare irregular verb), but in any case, such aid must be minimal, occasional, and acknowledged.  Outside proofreading/correcting changes the student's work, gives the professor an inaccurate idea of the student's skills, and as such violates the Dartmouth College honor principle.  As a Dartmouth Student you are required to comply with the Academic Honor Principle: https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle
+The Academic Honor Principle depends on the willingness of students to maintain and perpetuate standards of academic honesty. Students may not ask anyone other than the professor of their course to correct written work for this course. Students must rely on their judgment and conscience to determine whether a specific question might be addressed to a classmate or a friend (e.g. help with an idiom not readily available in a dictionary, or the conjugation of a rare irregular verb), but in any case, such aid must be minimal, occasional, and acknowledged. Outside proofreading/correcting changes the student's work, gives the professor an inaccurate idea of the student's skills, and as such violates the Dartmouth College honor principle. As a Dartmouth Student you are required to comply with the Academic Honor Principle: https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle
 
 ### Dartmouth's Anti-Hazing Policy
 
-The Film and Media Studies  Department is a firm supporter of Dartmouth's Anti-Hazing Policy. We reject hazing in all of its manifestations. In order to promote a safe environment for all students and not interrupt the learning experience at Dartmouth College, evidence of hazing-related practices, as defined by the Dartmouth College Anti-Hazing Policy, will not be considered appropriate in the classroom
+The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Hazing Policy. We reject hazing in all of its manifestations. In order to promote a safe environment for all students and not interrupt the learning experience at Dartmouth College, evidence of hazing-related practices, as defined by the Dartmouth College Anti-Hazing Policy, will not be considered appropriate in the classroom
 
 ## Course Schedule and Topics
 | Week | Class | Topic |
 |---|---|---|
 | Week 1 | 1/7/20 | Introduction and a series of problematic words |
-|   | 1/9/20 | No class - move to x hour on 1/13 |
-| Week 2 | 1/13/20 | Digital art showcase |
-|   | 1/14/20 | Art and idea |
-|   | 1/16/20 | Performance and artifact |
+| Week 2 | 1/12/20 | Art and idea |
+|   | 1/14/20 | Performance and artifact |
 ||| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
-| Week 3 | 1/21/20 | Transmedia - [Guest Speaker Jennie Chamberlain](https://docs.google.com/presentation/d/1TWOO1fWthT2p6nu_6Glidkaaq6umHhjySPI3yHwsczM/edit?usp=sharing) |
-|   | 1/23/20 | Variable Media - [Guest Speaker Jon Ippolito](http://jonippolito.net/writing/deck/re-collection_presentations/patterns_of_behavior.html) |
+| Week 3 | 1/19/20 | Transmedia - [Guest Speaker Jennie Chamberlain](https://docs.google.com/presentation/d/1TWOO1fWthT2p6nu_6Glidkaaq6umHhjySPI3yHwsczM/edit?usp=sharing) |
+|   | 1/21/20 | Variable Media - [Guest Speaker Jon Ippolito](http://jonippolito.net/writing/deck/re-collection_presentations/patterns_of_behavior.html) |
 ||| Readings: Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Ippolito, Death by Wall Label; Ippolito, Why Art Should Be Free |
-| Week 4 | 1/28/20 | Ethics and fictions |
-|   | 1/30/20 | Participatory culture |
+| Week 4 | 1/26/20 | Ethics and fictions |
+|   | 1/28/20 | Participatory culture |
 ||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction; Bell, Ippolito, Diffused Museums; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Marino, Wittig, Netprov-Elements of an Emerging Art Form |
-| Week 5 | 2/4/20 | Deep Dive presentations |
-|   | 2/6/20 | Prehistories and leftovers - Hood Museum visit to see Fluxus pieces |
+| Week 5 | 2/2/20 | Deep Dive presentations |
+|   | 2/4/20 | Prehistories and leftovers - Hood Museum visit to see Fluxus pieces |
 ||| Readings: Friedman, Intermedia, Multimedia, and Media |
-| Week 6 | 2/11/20 | BASIC - Rauner archive visit on the history of BASIC |
-|   | 2/13/20 | BASIC Workshop |
+| Week 6 | 2/9/20 | BASIC - Rauner archive visit on the history of BASIC |
+|   | 2/11/20 | BASIC Workshop |
 ||| Readings: McCracken, Fifty Years of BASIC |
-| Week 7 | 2/18/20 | Demoscene, live coding, and generative art |
-|   | 2/20/20 | BASIC presentations |
+| Week 7 | 2/16/20 | Demoscene, live coding, and generative art |
+|   | 2/18/20 | BASIC presentations |
 ||| Readings: None |
-| Week 8 | 2/25/20 | Speculative pasts |
-|   | 2/27/20 | Speculative futures - Guest Speaker Michelle Brown |
+| Week 8 | 2/23/20 | Speculative pasts |
+|   | 2/25/20 | Speculative futures - Guest Speaker Michelle Brown |
 ||| Readings: Sutherland, The Ultimate Display; Bush, As We May Think; LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Asimov, The Feeling of Power; Dillon, Indigenous Futurisms (excerpt); Roanhorse, Welcome to Your Authentic Indian Experience; Kress, Beggars in Spain |
-| Week 9 | 3/3/20 | Final presentations - A |
-|   | 3/5/20 | Final presentations - B |
+| Week 9 | 3/2/20 | Final presentations - A |
+|   | 3/4/20 | Final presentations - B |
 
 There will be no final exam for this course.
 
