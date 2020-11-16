@@ -219,14 +219,14 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 ||| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
 | Week 3 | 1/19/21 | Transmedia - [Guest Speaker Jennie Chamberlain](https://docs.google.com/presentation/d/1TWOO1fWthT2p6nu_6Glidkaaq6umHhjySPI3yHwsczM/edit?usp=sharing) |
 |   | 1/21/21 | Variable Media - [Guest Speaker Jon Ippolito](http://jonippolito.net/writing/deck/re-collection_presentations/patterns_of_behavior.html) |
-||| Readings: Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Ippolito, Death by Wall Label; Ippolito, Why Art Should Be Free |
+||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction, Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Ippolito, Why Art Should Be Free |
 | Week 4 | 1/26/21 | Ethics and fictions |
 |   | 1/28/21 | Participatory culture |
-||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction; Bell, Ippolito, Diffused Museums; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Hon, What ARGs Can Teach Us About QAnon |
+||| Readings: LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Bell, Ippolito, Diffused Museums; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Hon, What ARGs Can Teach Us About QAnon |
 | Week 5 | 2/2/21 | Deep Dive presentations |
-|   | 2/4/21 | Prehistories and leftovers - Hood Museum visit to see Fluxus pieces |
+|   | 2/4/21 | Prehistories and leftovers - Hood Museum talk on Fluxus |
 ||| Readings: Friedman, Intermedia, Multimedia, and Media |
-| Week 6 | 2/9/21 | BASIC - Rauner archive visit on the history of BASIC |
+| Week 6 | 2/9/21 | BASIC - Rauner archive talk on the history of BASIC |
 |   | 2/11/21 | BASIC Workshop |
 ||| Readings: McCracken, Fifty Years of BASIC |
 | Week 7 | 2/16/21 | Demoscene, live coding, and generative art |
@@ -234,7 +234,7 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 ||| Readings: None |
 | Week 8 | 2/23/21 | Speculative pasts |
 |   | 2/25/21 | Speculative futures - Guest Speaker Michelle Brown |
-||| Readings: Sutherland, The Ultimate Display; Bush, As We May Think; LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Asimov, The Feeling of Power; Dillon, Indigenous Futurisms (excerpt); Roanhorse, Welcome to Your Authentic Indian Experience; Kress, Beggars in Spain |
+||| Readings: Sutherland, The Ultimate Display; Bush, As We May Think; Asimov, The Feeling of Power; Dillon, Indigenous Futurisms (excerpt); Roanhorse, Welcome to Your Authentic Indian Experience; Kress, Beggars in Spain |
 | Week 9 | 3/2/21 | Final presentations - A |
 |   | 3/4/21 | Final presentations - B |
 
