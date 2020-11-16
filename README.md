@@ -214,7 +214,7 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 |---|---|---|
 | Week 1 | 1/7/20 | Introduction and a series of problematic words |
 | Week 2 | 1/12/20 | Art and idea |
-|   | 1/14/20 | Performance and artifact |
+|   | 1/14/20 | Performance and artifact - Guest Speaker Enchantress of Numbers on speedrunning |
 ||| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
 | Week 3 | 1/19/20 | Transmedia - [Guest Speaker Jennie Chamberlain](https://docs.google.com/presentation/d/1TWOO1fWthT2p6nu_6Glidkaaq6umHhjySPI3yHwsczM/edit?usp=sharing) |
 |   | 1/21/20 | Variable Media - [Guest Speaker Jon Ippolito](http://jonippolito.net/writing/deck/re-collection_presentations/patterns_of_behavior.html) |
