@@ -213,6 +213,7 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 | Week | Class | Topic |
 |---|---|---|
 | Week 1 | 1/7/21 | Introduction and a series of problematic words |
+||| Readings: Snyder, Speedrunning: Interviews with the Quickest Gamers (eon) |
 | Week 2 | 1/12/21 | Art and idea |
 |   | 1/14/21 | Performance and artifact - Guest Speaker Enchantress of Numbers on speedrunning |
 ||| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
@@ -221,7 +222,7 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 ||| Readings: Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Ippolito, Death by Wall Label; Ippolito, Why Art Should Be Free |
 | Week 4 | 1/26/21 | Ethics and fictions |
 |   | 1/28/21 | Participatory culture |
-||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction; Bell, Ippolito, Diffused Museums; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Marino, Wittig, Netprov-Elements of an Emerging Art Form |
+||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction; Bell, Ippolito, Diffused Museums; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Hon, What ARGs Can Teach Us About QAnon |
 | Week 5 | 2/2/21 | Deep Dive presentations |
 |   | 2/4/21 | Prehistories and leftovers - Hood Museum visit to see Fluxus pieces |
 ||| Readings: Friedman, Intermedia, Multimedia, and Media |
