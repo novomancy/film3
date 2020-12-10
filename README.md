@@ -25,7 +25,7 @@ In this course, students will:
 
 This course explores digital cultures and its methods embody the practices that make up those cultures. As such, it may function a bit differently than other courses you have taken. Some examples include:
 
-- &quot;I know Google-Fu&quot; – classroom discussions are expected to be supported by open laptops and real-time research.
+- &quot;I know Google-Fu&quot; – classroom discussions are expected to be supported by open laptops and real-time research. Obviously your laptops are already on while we're all online; I fully expect you to make use of the ability to multitask and dig up information as we talk though. Just make sure you're still paying attention to the discussion!
 - &quot;Plan to throw one away; you will, anyhow&quot; – all submitted assignments may be revised and resubmitted after you receive feedback (though you do need to submit a legitimate attempt at an assignment on time in order to take advantage of this privilege).
 - &quot;It&#39;s not a bug, it&#39;s a feature&quot; – we will undoubtably run into places where technology fails, ideas fall apart, or schedules don&#39;t work; when we do we will adapt rather than try to force our way back to the original plan.
 - &quot;Good artists copy; great artists steal&quot; – we encourage reuse, remix, and derivatives of existing ideas and media, so long as it is significantly transformative and pulls together divergent threads. Note that plagiarism and uncited sources are still very much against the rules and will result in adverse consequences.
@@ -40,7 +40,7 @@ This course develops a shared understanding of digital culture that will evolve 
 
 You will be expected to meet with collaborators outside of class. I strongly encourage you to use the designated x hour for these meetings, but you are free to set them as needed to accommodate your schedules.
 
-**Online Participation**
+**Online Participation Beyond Zoom**
 
 At the beginning of the class we will choose an asynchronous platform to supplement live Zoom calls–either Slack or Discord, whichever we decide we collectively feel most comfortable using.
 
@@ -93,14 +93,7 @@ It depends on the size of the group, but to maintain smoother transitions in a d
 
 **Reading**
 
-You will be given weekly reading assignments that you will respond to and will form the core of our discussions. In addition to these readings, you are expected to keep up with the following blogs during the term:
-
-- BoingBoing ( http://www.boingboing.net/ )
-- Hack-a-Day ( http://hackaday.com/ )
-- Hyperallergic ( https://hyperallergic.com/ )
-- We-Make-Money-Not-Art (http://www.we-make-money-not-art.com/ )
-
-Note that &#39;keep up with&#39; does not mean you have to read every post on each site, simply that you check them regularly and pay attention to what you find interesting. Please share the good stuff in our Slack/Discord discussion!
+You will be given weekly reading assignments that you will respond to and will form the core of our discussions.
 
 **Writing Style**
 
@@ -121,7 +114,7 @@ Collaboration within the course will vary depending on the requirements of the a
 
 **Notes on Logistics**
 
-- All assignments will be submitted via Canvas. Any ongoing resource sharing should take place in Slack/Discord. 
+- All assignments will be submitted via Canvas. Any ongoing resource sharing and discussion should take place in Slack/Discord. 
 - There are several guest speakers and visitors this term. While I have tried to get a commitment from each of them for specific dates and times, we may need to adjust the schedule slightly to accommodate if a guest is not available on their scheduled date.
 - I may occasionally ask to share a presentation or project outside the classroom (e.g. on Twitter). You are under absolutely no obligation to agree to this and, if you do not, I will not penalize you in any way.
 - I&#39;m happy to chat about any concerns with the course or the material we&#39;re discussing. To schedule an appointment for office hours, send email to john.p.bell@dartmouth.edu
@@ -132,7 +125,10 @@ As with all classes, it is expected that you will treat others with respect. Par
 
 ## Texts &amp; Materials
 
-Readings will be provided in Canvas. There is no required textbook for this course, but I will ask you to read two novels this term. More details on these will be forthcoming.
+Readings will be provided in Canvas. There is no required textbook for this course, but I will ask you to read two novels this term:
+
+- Beggars in Spain, by Nancy Kress (ISBN 9780060733483)
+- Rainbow's End, by Vernor Vinge (ISBN 9780812536362)
 
 ## Assessment &amp; Grading
 
@@ -223,7 +219,7 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 | Week 4 | 1/26/21 | Ethics and fictions |
 |   | 1/28/21 | Participatory culture |
 |   | 1/29/21 | X-Hour Watchalong: Rifftrax shorts |
-||| Readings: LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Hon, What ARGs Can Teach Us About QAnon |
+||| Readings: LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Hon, What ARGs Can Teach Us About QAnon; Vinge, Rainbow's End |
 | Week 5 | 2/2/21 | Deep Dive presentations |
 |   | 2/4/21 | Prehistories and leftovers - Hood Museum talk on Fluxus |
 ||| Readings: Friedman, Intermedia, Multimedia, and Media |
@@ -234,7 +230,7 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 |   | 2/18/21 | BASIC presentations |
 ||| Readings: None |
 | Week 8 | 2/23/21 | Speculative pasts |
-|   | 2/25/21 | Speculative futures - Guest Speaker Michelle Brown |
+|   | 2/25/21 | Speculative futures |
 ||| Readings: Sutherland, The Ultimate Display; Bush, As We May Think; Asimov, The Feeling of Power; Dillon, Indigenous Futurisms (excerpt); Roanhorse, Welcome to Your Authentic Indian Experience; Kress, Beggars in Spain |
 | Week 9 | 3/2/21 | Final presentations - A |
 |   | 3/4/21 | Final presentations - B |
