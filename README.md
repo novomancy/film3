@@ -213,8 +213,8 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 | Week 2 | 1/12/21 | Art and idea |
 |   | 1/14/21 | Performance and artifact - Guest Speaker Enchantress of Numbers on speedrunning |
 ||| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
-| Week 3 | 1/19/21 | Transmedia - [Guest Speaker Jennie Chamberlain](https://docs.google.com/presentation/d/1TWOO1fWthT2p6nu_6Glidkaaq6umHhjySPI3yHwsczM/edit?usp=sharing) |
-|   | 1/21/21 | Variable Media - [Guest Speaker Jon Ippolito](http://jonippolito.net/writing/deck/re-collection_presentations/patterns_of_behavior.html) |
+| Week 3 | 1/19/21 | Transmedia - [Guest Speaker Jennie Chamberlain] |
+|   | 1/21/21 | Variable Media - [Guest Speaker Jon Ippolito] |
 ||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction, Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Bell, Ippolito, Diffused Museums; Ippolito, Why Art Should Be Free |
 | Week 4 | 1/26/21 | Ethics and fictions |
 |   | 1/28/21 | Participatory culture |
