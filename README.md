@@ -60,17 +60,17 @@ As part of the effort to keep everyone healthy during the pandemic, we have move
 
 (1) Consent to recording of course and group office hours
 
--  I affirm my understanding that this course and any associated group meetings involving students and the instructor, including but not limited to scheduled and ad hoc office hours and other consultations, may be recorded within any digital platform used to offer remote instruction for this course; 
+-  You affirm my understanding that this course and any associated group meetings involving students and the instructor, including but not limited to scheduled and ad hoc office hours and other consultations, may be recorded within any digital platform used to offer remote instruction for this course; 
 
--  I further affirm that the instructor owns the copyright to their instructional materials, of which these recordings constitute a part, and distribution of any of these recordings in whole or in part without prior written consent of the instructor may be subject to discipline by Dartmouth up to and including expulsion;
+-  You further affirm that the instructor owns the copyright to their instructional materials, of which these recordings constitute a part, and distribution of any of these recordings in whole or in part without prior written consent of the instructor may be subject to discipline by Dartmouth up to and including expulsion;
 
--  I authorize Dartmouth and anyone acting on behalf of Dartmouth to record my participation and appearance in any medium, and to use my name, likeness, and voice in connection with such recording; and 
+-  You authorize Dartmouth and anyone acting on behalf of Dartmouth to record my participation and appearance in any medium, and to use my name, likeness, and voice in connection with such recording; and 
 
--  I authorize Dartmouth and anyone acting on behalf of Dartmouth to use, reproduce, or distribute such recording without restrictions or limitation for any educational purpose deemed appropriate by Dartmouth and anyone acting on behalf of Dartmouth.
+-  You authorize Dartmouth and anyone acting on behalf of Dartmouth to use, reproduce, or distribute such recording without restrictions or limitation for any educational purpose deemed appropriate by Dartmouth and anyone acting on behalf of Dartmouth.
 
 (2) Requirement of consent to one-on-one recordings 
 
-By enrolling in this course, I hereby affirm that I will not under any circumstance make a recording in any medium of any one-on-one meeting with the instructor without obtaining the prior written consent of all those participating, and I understand that if I violate this prohibition, I will be subject to discipline by Dartmouth up to and including expulsion, as well as any other civil or criminal penalties under applicable law.
+By enrolling in this course, you hereby affirm that you will not under any circumstance make a recording in any medium of any one-on-one meeting with the instructor without obtaining the prior written consent of all those participating, and understand that if you violate this prohibition, you will be subject to discipline by Dartmouth up to and including expulsion, as well as any other civil or criminal penalties under applicable law.
 
 We will discuss the implications of these rights and rules in the class as well–they are an object lesson on digital culture in their own right!
 
@@ -125,10 +125,9 @@ As with all classes, it is expected that you will treat others with respect. Par
 
 ## Texts &amp; Materials
 
-Readings will be provided in Canvas. There is no required textbook for this course, but I will ask you to read two novels this term:
+Readings will be provided in Canvas. There is no required textbook for this course, but I will ask you to read a novel this term:
 
 - Beggars in Spain, by Nancy Kress (ISBN 9780060733483)
-- Rainbow's End, by Vernor Vinge (ISBN 9780812536362)
 
 ## Assessment &amp; Grading
 
@@ -219,7 +218,7 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 | Week 4 | 1/26/21 | Ethics and fictions |
 |   | 1/28/21 | Participatory culture |
 |   | 1/29/21 | X-Hour Watchalong: Rifftrax shorts |
-||| Readings: LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Hopwood, Is Fake News Killing Fictive Art; Jeong, EU Copyright Law; Hon, What ARGs Can Teach Us About QAnon; Vinge, Rainbow's End |
+||| Readings: LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Hopwood, Is Fake News Killing Fictive Art; Hon, What ARGs Can Teach Us About QAnon |
 | Week 5 | 2/2/21 | Deep Dive presentations |
 |   | 2/4/21 | Prehistories and leftovers - Hood Museum talk on Fluxus |
 ||| Readings: Friedman, Intermedia, Multimedia, and Media |
