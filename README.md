@@ -207,33 +207,34 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 ## Course Schedule and Topics
 | Week | Class | Topic |
 |---|---|---|
-| Week 1 | 1/7/21 | Introduction and a series of problematic words |
+| Week 1 | 1/4/21 | Introduction and a series of problematic words |
+|   | 1/6/21 | Digital art showcase |
 ||| Readings: Snyder, Speedrunning: Interviews with the Quickest Gamers (eon) |
-| Week 2 | 1/12/21 | Art and idea |
-|   | 1/14/21 | Performance and artifact - Guest Speaker Enchantress of Numbers on speedrunning |
+| Week 2 | 1/11/21 | Art and idea |
+|   | 1/13/21 | Performance and artifact - Guest Speaker Enchantress of Numbers on speedrunning |
 ||| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
-| Week 3 | 1/19/21 | Transmedia - [Guest Speaker Jennie Chamberlain] |
-|   | 1/21/21 | Variable Media - [Guest Speaker Jon Ippolito] |
+| Week 3 | 1/18/21 | Transmedia - [Guest Speaker Jennie Chamberlain] |
+|   | 1/20/21 | Variable Media - [Guest Speaker Jon Ippolito] |
 ||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction, Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Bell, Ippolito, Diffused Museums; Ippolito, Why Art Should Be Free |
-| Week 4 | 1/26/21 | Ethics and fictions |
-|   | 1/28/21 | Participatory culture |
-|   | 1/29/21 | X-Hour Watchalong: Rifftrax shorts |
+| Week 4 | 1/25/21 | Ethics and fictions |
+|   | 1/27/21 | Participatory culture |
+|   | 1/28/21 | X-Hour Watchalong: Rifftrax shorts |
 ||| Readings: LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Hopwood, Is Fake News Killing Fictive Art; Hon, What ARGs Can Teach Us About QAnon |
-| Week 5 | 2/2/21 | Deep Dive presentations |
-|   | 2/4/21 | Prehistories and leftovers - Hood Museum talk on Fluxus |
+| Week 5 | 2/1/21 | Deep Dive presentations |
+|   | 2/3/21 | Prehistories and leftovers - Hood Museum talk on Fluxus |
 ||| Readings: Friedman, Intermedia, Multimedia, and Media |
-| Week 6 | 2/9/21 | BASIC - Rauner archive talk on the history of BASIC |
-|   | 2/11/21 | BASIC Workshop |
+| Week 6 | 2/8/21 | BASIC - Rauner archive talk on the history of BASIC |
+|   | 2/10/21 | BASIC Workshop |
 ||| Readings: McCracken, Fifty Years of BASIC |
-| Week 7 | 2/16/21 | Demoscene, live coding, and generative art |
-|   | 2/18/21 | BASIC presentations |
+| Week 7 | 2/15/21 | Demoscene, live coding, and generative art |
+|   | 2/17/21 | BASIC presentations |
 ||| Readings: None |
-| Week 8 | 2/23/21 | Speculative pasts |
-|   | 2/25/21 | Speculative futures |
+| Week 8 | 2/22/21 | Speculative pasts |
+|   | 2/24/21 | Speculative futures |
 ||| Readings: Sutherland, The Ultimate Display; Bush, As We May Think; Asimov, The Feeling of Power; Dillon, Indigenous Futurisms (excerpt); Roanhorse, Welcome to Your Authentic Indian Experience; Kress, Beggars in Spain |
-| Week 9 | 3/2/21 | Final presentations - A |
-|   | 3/4/21 | Final presentations - B |
-| Week 10 | 3/9/21 | Watchalong: The Waldo Moment |
+| Week 9 | 3/1/21 | Final presentations - A |
+|   | 3/3/21 | Final presentations - B |
+| Week 10 | 3/8/21 | Watchalong: The Waldo Moment |
 
 There will be no final exam for this course.
 
