@@ -220,8 +220,8 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 |   | 1/27/21 | Participatory culture |
 |   | 1/28/21 | X-Hour Watchalong: Rifftrax shorts |
 ||| Readings: LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Hopwood, Is Fake News Killing Fictive Art; Hon, What ARGs Can Teach Us About QAnon |
-| Week 5 | 2/1/21 | Deep Dive presentations |
-|   | 2/3/21 | Prehistories and leftovers - Hood Museum talk on Fluxus |
+| Week 5 | 2/1/21 | Prehistories and leftovers - Hood Museum talk on Fluxus |
+|   | 2/3/21 | Deep Dive presentations |
 ||| Readings: Friedman, Intermedia, Multimedia, and Media |
 | Week 6 | 2/8/21 | BASIC - Rauner archive talk on the history of BASIC |
 |   | 2/10/21 | BASIC Workshop |
