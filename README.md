@@ -1,6 +1,8 @@
 # Syllabus for Film 3: Introduction to Digital Arts and Culture (Dartmouth)
 
 Instructor: John Bell
+Location: Carson 61
+Time: 2A
 
 Based on Mary Flanagan's Film 3 syllabus
 
