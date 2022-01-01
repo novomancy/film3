@@ -29,7 +29,7 @@ In this course, students will:
 
 This course explores digital cultures and its methods embody the practices that make up those cultures. As such, it may function a bit differently than other courses you have taken. Some examples include:
 
-- &quot;I know Google-Fu&quot; – classroom discussions are expected to be supported by open laptops and real-time research. Obviously your laptops are already on while we're all online; I fully expect you to make use of the ability to multitask and dig up information as we talk though. Just make sure you're still paying attention to the discussion!
+- &quot;I know Google-Fu&quot; – classroom discussions are expected to be supported by open laptops and real-time research. I fully expect you to make use of the ability to multitask and dig up information as we talk. Just make sure you're still paying attention to the discussion!
 - &quot;Plan to throw one away; you will, anyhow&quot; – all submitted assignments may be revised and resubmitted after you receive feedback (though you do need to submit a legitimate attempt at an assignment on time in order to take advantage of this privilege).
 - &quot;It&#39;s not a bug, it&#39;s a feature&quot; – we will undoubtably run into places where technology fails, ideas fall apart, or schedules don&#39;t work; when we do we will adapt rather than try to force our way back to the original plan.
 - &quot;Good artists copy; great artists steal&quot; – we encourage reuse, remix, and derivatives of existing ideas and media, so long as it is significantly transformative and pulls together divergent threads. Note that plagiarism and uncited sources are still very much against the rules and will result in adverse consequences.
@@ -38,17 +38,15 @@ The goal of the course is to collectively develop these and other methods that e
 
 ## Expectations &amp; Norms
 
-**~~Meatspace~~Zoom Participation**
+**Meatspace Participation**
 
 This course develops a shared understanding of digital culture that will evolve as your ideas bounce off of and are transformed by others in the class. If the only time you talk is when you&#39;re giving a presentation then you will have little opportunity to contribute to the shared understanding developed by the class and I will not have much information to use when evaluating your success in the class (i.e., grade). Ask questions, throw in comments, and generally add to the discussion as much as possible, particularly if you think you missed something or you have a stupid question. The odds are good that I failed to completely explain whatever you missed and other people are as confused as you are.
 
-You will be expected to meet with collaborators outside of class. I strongly encourage you to use the designated x hour for these meetings, but you are free to set them as needed to accommodate your schedules.
+You will be expected to meet with collaborators outside of class. I encourage you to use the designated x hour for these meetings when we do not use it for class, but you are free to set them as needed to accommodate your schedules.
 
-**Online Participation Beyond Zoom**
+**Online Participation**
 
-At the beginning of the class we will choose an asynchronous platform to supplement live Zoom calls–either Slack or Discord, whichever we decide we collectively feel most comfortable using.
-
-Either way, that platform will have dedicated channels to sharing interesting and relevant resources:
+This course includes both a Canvas site and a Slack group. The Canvas site will be the home of static resources like the syllabus and readings, while the Slack group is for discussion. The Slack group will include:
 
 - A jargon file where we will define terms and concepts that are unfamiliar
 - Links to digital artwork that you find compelling in some way (or documentation if it is offline)
@@ -56,11 +54,25 @@ Either way, that platform will have dedicated channels to sharing interesting an
 
 You should add to the jargon file whenever you come across an unfamiliar term that you think needs definition. You will be expected to add at least five entries to the lists of artworks and artists over the course of the term.
 
-**Online Class Meetings**
+**COVID-Related Notices**
 
-As part of the effort to keep everyone healthy during the pandemic, we have moved this course online. Putting the course fully online adds some extra legal and social constraints:
+Attendance:
 
-***COVID-Related Meeting Notice***
+You are expected to attend class in person unless you have made alternative arrangements due to illness, medical reasons, or the need to isolate due to COVID-19.  For the health and safety of our class community, please: do not attend class when you are sick, nor when you have been instructed by Student Health Services to stay home. 
+
+For each class, a present student will write a summary of the class discussion in Slack. You may participate by responding to that summary if you are unable to attend in person.
+
+Safety:
+
+In accordance with current [https://covid.dartmouth.edu/face-mask-policy](College policy), all members of the Dartmouth community are required to wear a suitable face covering when indoors, regardless of vaccination status. This includes our classroom and other course-related locations, such as labs, studios, and office hours. If you need to take a quick drink during class, please dip your mask briefly for each sip. Eating is never permitted in the classroom. (The only exception to the mask requirement is for students with an approved disability-related accommodation; see below.)  If you do not have an accommodation and refuse to comply with masking or other safety protocols, I am obligated to assure that the Covid health and safety standards are followed, and you will be asked to leave the classroom. You remain subject to course attendance policies, and dismissal from class will result in an unexcused absence.  If you refuse to comply with masking or other safety protocols, and to ensure the health and safety of our community, I am obligated to report you to the Dean’s office for disciplinary action under Dartmouth’s [https://student-affairs.dartmouth.edu/policy/standards-conduct](Standards of Conduct). Additional COVID-19 protocols may emerge. Pay attention to emails from the senior administrators at the College. 
+
+Accommodations:
+
+Students requesting disability-related accommodations and services for this course are required to register with Student Accessibility Services (SAS): [https://students.dartmouth.edu/student-accessibility/students/working-sas/getting-started](Getting Started with SAS webpage); student.accessibility.services@dartmouth.edu; 1-603-646-9900) and to request that an accommodation email be sent to me in advance of the need for an accommodation. Then, students should schedule a follow-up meeting with me to determine relevant details such as what role SAS or its [https://students.dartmouth.edu/student-accessibility/services/testing-center](Testing Center) may play in accommodation implementation. This process works best for everyone when completed as early in the quarter as possible. If students have questions about whether they are eligible for accommodations or have concerns about the implementation of their accommodations, they should contact the SAS office. All inquiries and discussions will remain confidential.
+
+***Zoom Backup Plan***
+
+If it some point it becomes necessary to temporarily move the course to remote learning, either because Dartmouth policy dictates or because I am unable to teach in person, we will hold class using Zoom. 
 
 (1) Consent to recording of course and group office hours
 
@@ -78,7 +90,7 @@ By enrolling in this course, you hereby affirm that you will not under any circu
 
 We will discuss the implications of these rights and rules in the class as well–they are an object lesson on digital culture in their own right!
 
-***Zoom Etiquette***
+(3) Zoom Etiquette
  
 - Video should be on when technology allows
 While it might be tempting to lurk in class, it's helpful for your professor and fellow students to see your reactions. Be present, keep video on unless an emergency comes up. It's part of active participation.
@@ -118,7 +130,7 @@ Collaboration within the course will vary depending on the requirements of the a
 
 **Notes on Logistics**
 
-- All assignments will be submitted via Canvas. Any ongoing resource sharing and discussion should take place in Slack/Discord. 
+- All assignments will be submitted via Canvas. Any ongoing resource sharing and discussion should take place in Slack. 
 - There are several guest speakers and visitors this term. While I have tried to get a commitment from each of them for specific dates and times, we may need to adjust the schedule slightly to accommodate if a guest is not available on their scheduled date.
 - I may occasionally ask to share a presentation or project outside the classroom (e.g. on Twitter). You are under absolutely no obligation to agree to this and, if you do not, I will not penalize you in any way.
 - I&#39;m happy to chat about any concerns with the course or the material we&#39;re discussing. To schedule an appointment for office hours, send email to john.p.bell@dartmouth.edu
@@ -137,9 +149,9 @@ Readings will be provided in Canvas. There is no required textbook for this cour
 
 **Participation and Attendance: 20%**
 
-Participation includes taking an active role in both Zoom and Slack/Discord. Remember that the topics I introduce in class are only seeds and examples; I expect you to bring in your own related interests, respond to your classmates&#39; ideas, and take our discussions and hands-on projects in directions that I can&#39;t predict ahead of time.
+Participation includes taking an active role in both classroom discussions and Slack. Remember that the topics I introduce in class are only seeds and examples; I expect you to bring in your own related interests, respond to your classmates&#39; ideas, and take our discussions and hands-on projects in directions that I can&#39;t predict ahead of time.
 
-I will be taking attendance at each class meeting. If you are more than ten minutes late, that day will be marked as an absence. After two absences, your final grade will be lowered by a full letter grade for each additional absence. If you need to take a planned absence or will not be attending due to illness, let me know via email ahead of the class you will be missing. If your circumstances lead you to believe you will not be able to meet this attendance policy, let me know and we can discuss it.
+I will be taking attendance at each class meeting. If you are more than ten minutes late, that day will be marked as an absence. After two absences, your final grade will be lowered by a full letter grade for each additional absence. If you need to take a planned absence or will not be attending due to illness, let me know via email ahead of the class you will be missing. If your circumstances lead you to believe you will not be able to meet this attendance policy, let me know and we can discuss it. Covid-related absences are considered excused under this policy-if you have a question about your Covid status, I encourage you to let me know ahead of class and get tested rather than coming in and potentially causing a wider outbreak among your classmates.
 
 **Commentary on Readings and Media: 25%**
 
@@ -149,13 +161,13 @@ The form of these commentaries is up to you, though if you want to attempt a hig
 
 **Deep Dive Explainer: 25%**
 
-You will be assigned to a group that will create a deep dive presentation. Each group will present once; the presentation is expected to take roughly twenty minutes, with a few extra minutes for Q&amp;A added to the end. These explainers will go into depth on some big idea that is tangential to the topics discussed in class. Your group will need to propose a topic and, upon approval, develop a presentation aimed at general audiences.
+You will be assigned to a group that will create a deep dive presentation. Each group will present once; the presentation is expected to take roughly fifteen minutes, with a few extra minutes for Q&amp;A added to the end. These explainers will go into depth on some big idea that is tangential to the topics discussed in class. Your group will need to propose a topic and, upon approval, develop a presentation aimed at general audiences.
 
 To submit the explainer you will need to send your presentation media, speaker&#39;s notes, and bibliography to me on Canvas within a week of the in-class presentation.
 
 **Final Project: 30%**
 
-The final project for this course will be a ten-minute long podcast or vodcast suitable for public dissemination. By the end of January you will propose an individual research topic related to the ideas we have discussed in class. By the end of the term you will research your topic, write a script (with bibliography), and record your podcast.
+The final project for this course will be a five-minute long explainer suitable for public dissemination. By the end of January you will propose an individual research topic related to the ideas we have discussed in class. By the end of the term you will research your topic, write a script (with bibliography), and record your explainer. We will discuss the medium of this explainer and technology used to create it in class.
 
 To submit your final project you will need to upload the final media file, script, and bibliography to Canvas. I would also encourage you to make the media file public and will help you figure out the best distribution channel for doing so. Publication is not a requirement of the course, however–just something that I think you should do because part of participating in digital culture is actually putting your work out there for people to see.
 
@@ -213,17 +225,16 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 |---|---|---|
 | Week 1 | 1/4/21 | Introduction and a series of problematic words |
 |   | 1/6/21 | Digital art showcase |
-||| Readings: Snyder, Speedrunning: Interviews with the Quickest Gamers (eon) |
+||| Readings: Koziel, Excerpt from Speedrunning Science|
 | Week 2 | 1/11/21 | Art and idea |
-|   | 1/13/21 | Performance and artifact - Guest Speaker Enchantress of Numbers on speedrunning |
+|   | 1/13/21 | Performance and artifact |
 ||| Readings: Arbesman, Introduction to Overcomplicated; Levy, Hackers at 30; Manovich, Language of New Media excerpts; Paul, Digital Art excerpts |
-| Week 3 | 1/18/21 | Transmedia - [Guest Speaker Jennie Chamberlain] |
-|   | 1/20/21 | Variable Media - [Guest Speaker Jon Ippolito] |
-||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction, Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Bell, Ippolito, Diffused Museums; Ippolito, Why Art Should Be Free |
+| Week 3 | 1/18/21 | Streaming communities - [Guest Speaker Kasumi Yogi] |
+|   | 1/20/21 | Transmedia - [Guest Speaker Jennifer Chamberlain] |
+||| Readings: Benjamin, The Work of Art in the Age of Mechanical Reproduction, Jenkins, Transmedia Storytelling; Jenkins, Transmedia What?; Pellicone, Ahn, The Game of Performing Play|
 | Week 4 | 1/25/21 | Ethics and fictions |
-|   | 1/27/21 | Participatory culture |
-|   | 1/28/21 | X-Hour Watchalong: Rifftrax shorts |
-||| Readings: LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Hopwood, Is Fake News Killing Fictive Art; Hon, What ARGs Can Teach Us About QAnon |
+|   | 1/27/21 | Participatory culture - Watchalong: Rifftrax shorts |
+||| Readings: LeGuin, The Ones Who Walk Away From Omelas; Jemisin, The Ones Who Stay and Fight; Hopwood, Is Fake News Killing Fictive Art; Hon, What ARGs Can Teach Us About QAnon; Ippolito, Why Art Should Be Free; Lamerichs, The Next Wave in Participatory Culture|
 | Week 5 | 2/1/21 | Prehistories and leftovers - Hood Museum talk on Fluxus |
 |   | 2/3/21 | Deep Dive presentations |
 ||| Readings: Friedman, Intermedia, Multimedia, and Media |
