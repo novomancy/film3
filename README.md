@@ -249,6 +249,7 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 ||| Readings: Sutherland, The Ultimate Display; Bush, As We May Think; Asimov, The Feeling of Power; Dillon, Indigenous Futurisms (excerpt); Roanhorse, Welcome to Your Authentic Indian Experience; Kress, Beggars in Spain |
 | Week 9 | 3/1/21 | Final presentations - A |
 |   | 3/3/21 | Final presentations - B |
+||| Readings: Watch recorded talk - Kavya Pearlman, Past, Present, and Future of XR |
 | Week 10 | 3/8/21 | Watchalong: The Waldo Moment |
 
 There will be no final exam for this course.
