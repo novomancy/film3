@@ -223,7 +223,7 @@ The Film and Media Studies Department is a firm supporter of Dartmouth's Anti-Ha
 ## Course Schedule and Topics
 | Week | Class | Topic |
 |---|---|---|
-| Week 1 | 1/4/21 | Introduction and a series of problematic words |
+| Week 1 | 1/4/21 | Introduction, a series of problematic words, and tell me a funny story |
 |   | 1/6/21 | Digital art showcase |
 ||| Readings: Koziel, Excerpt from Speedrunning Science|
 | Week 2 | 1/11/21 | Art and idea |
